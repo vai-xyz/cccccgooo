@@ -1,0 +1,36 @@
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-align:center;
+ }
+ body{
+     background-color: aquamarine;
+ }
+ .img{
+     box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+ }
+ img:hover{
+     border-radius:100px;
+ }
+ h4{
+     color: red;
+ }
+ h1{
+     font-weight: bold;
+     color: aliceblue;
+ }
+ #camera{
+     width:500px;
+     height:400px;
+     border-radius: 50px;
+     border-style: ridge;
+     border-color: black;
+ }
+ #resultShow{
+   display: inline;
+ }
+ #developer{
+     color: black;
+     font-weight: bolder;
+ }
